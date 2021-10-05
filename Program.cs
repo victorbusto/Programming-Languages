@@ -6,7 +6,10 @@ namespace Programming_Languages
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+             List<Language> languages = File.ReadAllLines("./languages.tsv")
+            .Skip(1)
+            .Select(line => Language.FromTsv(line))
+            .ToList();
         }
     }
 }
