@@ -1,0 +1,16 @@
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\Programming-Languages\bin\Debug\net5.0\Programming-Languages.exe
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\Programming-Languages\bin\Debug\net5.0\Programming-Languages.deps.json
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\Programming-Languages\bin\Debug\net5.0\Programming-Languages.runtimeconfig.json
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\Programming-Languages\bin\Debug\net5.0\Programming-Languages.runtimeconfig.dev.json
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\Programming-Languages\bin\Debug\net5.0\Programming-Languages.dll
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\Programming-Languages\bin\Debug\net5.0\ref\Programming-Languages.dll
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\Programming-Languages\bin\Debug\net5.0\Programming-Languages.pdb
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\Programming-Languages\obj\Debug\net5.0\Programming-Languages.csproj.AssemblyReference.cache
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\Programming-Languages\obj\Debug\net5.0\Programming-Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\Programming-Languages\obj\Debug\net5.0\Programming-Languages.AssemblyInfoInputs.cache
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\Programming-Languages\obj\Debug\net5.0\Programming-Languages.AssemblyInfo.cs
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\Programming-Languages\obj\Debug\net5.0\Programming-Languages.csproj.CoreCompileInputs.cache
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\Programming-Languages\obj\Debug\net5.0\Programming-Languages.dll
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\Programming-Languages\obj\Debug\net5.0\ref\Programming-Languages.dll
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\Programming-Languages\obj\Debug\net5.0\Programming-Languages.pdb
+C:\Users\victor.busto\OneDrive - SoftwareONE\Documents\Codecademy\Programming-Languages\obj\Debug\net5.0\Programming-Languages.genruntimeconfig.cache
